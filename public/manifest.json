@@ -1,0 +1,16 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    
+    {
+      "src": "Amaresh-profile.png",
+      "type": "image/png"
+    }
+   
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0369a1",
+  "background_color": "#ffffff"
+}
